@@ -1,4 +1,4 @@
-# Intro_to_AI
+# AI_course
 Base AI course from [RTU MIREA](https://www.mirea.ru/) (spring 2023)
 
 # Tasks
